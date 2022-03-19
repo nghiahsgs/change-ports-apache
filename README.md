@@ -16,3 +16,8 @@ b/ Ubuntu/Debian:
 ```
 sudo vi /etc/apache2/ports.conf
 ```
+
+```
+sudo systemctl status apache2
+sudo systemctl restart apache2
+```
